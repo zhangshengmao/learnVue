@@ -1,0 +1,11 @@
+.comment{height:100%;width:100%;position:absolute;top:0;
+    .mask{height:100%;width:100%;background-color:#fff;opacity:0.4;position:absolute;}
+    .content{width:80%;height:80%;border:1px solid #434a50;border-radius:20px;padding:1% 5% 5% 5%; font-size:30px;color:#fff;background-color:#434a50;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);
+        .closeBtn{font-size:50px;text-align:right;}
+        .sure{font-size:40px;text-align:center;
+        	.sureBtn{width:50%;display:inline-block;height:80px;line-height:80px;background-color:#ffd04b;border:1px solid #ffd04b;border-radius:15px;margin-top:5%;}
+        }
+
+        
+    }
+}

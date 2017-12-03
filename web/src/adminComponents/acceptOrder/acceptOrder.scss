@@ -1,0 +1,19 @@
+ul,li{list-style:none;}
+
+.kitchenOp{overflow:hidden;
+    div{float:left;width: 18%;line-height:100px;}
+    .theSecond{width:5%}
+    img{width:50%;height:100px;}
+}
+.cooking{
+    th,td{padding:20px;border-bottom:1px solid #E9EEF3;
+        input{background:#e14d4d;color:#fff;border:0 none;padding:5px 20px;border-radius:5px;}
+    }
+    // tr:first-child:hover{background:#fff;}
+    tr:hover{background:#E9EEF3;}
+}
+.keepTime{border:0 none; width:40px;height:30px;}
+.callMsg{width: 40%;height:30%;position:absolute;left:40%;top:40%;background:#ccc;padding-top:30px;border:1px solid red;z-index:200;
+    input{width:500px;height: 30px;font-size:20px;border:0 none;color:red;background:#ccc;text-align:center;}
+    
+}

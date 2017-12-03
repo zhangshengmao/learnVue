@@ -1,0 +1,8 @@
+#homeheader{display:flex;justify-content:center;align-items:center;position:relative;
+    background:url('../../assets/背景图.jpg') no-repeat 0 50%;background-size:cover; 
+    h3{font-size:56px;height:100%;margin:0;padding-top:10%;position:absolute;color:rgb(255, 208, 75);
+        span{color:rgb(255, 208, 75);}
+    }
+    .mask{height:100%;width:100%;position:absolute;background-color:rgb(84, 92, 100);opacity:0.5;} 
+    .tableNumber{display:block;position:absolute;font-size:36px;color:rgb(255, 208, 75);z-index:99;left:0;top:0;;height:10%;width:30%;} 
+}

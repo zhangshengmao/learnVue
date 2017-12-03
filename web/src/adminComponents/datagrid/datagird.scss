@@ -1,0 +1,30 @@
+.contentOfEdit{
+    padding:10px;
+    label{display:inline-block;width: 80px;text-align:right;padding-right:10px;}
+    input{width:200px;height:30px;}
+}
+.addcont{position:absolute;left:50%;top:30%;width:50%;margin-left:-25%;background:#fff;overflow:hidden;padding:60px 20px 60px  0;box-shadow:5px 5px 10px #ccc;z-index:200;}
+.additem{width:45%;padding-bottom:10px;}
+.additem label{display: inline-block;width:100px;text-align:right;padding-right:10px;}
+.additem input{width:190px;height:30px;}
+.additem:nth-child(2n){
+  float:right;
+}
+.additem:nth-child(2n-1){
+  float:left;
+}
+
+.addaffirm,.updataffirm{position:absolute;left:50%;bottom:20px;width:50px;margin-left: -25px;}
+.main_top{overflow:hidden;height: 50px;padding:10px 100px;
+    .mainT_left{float:left;
+        input{height:30px;width:266px;border-radius:5px;border:1px solid #e14d4d;font-size:18px;}
+       
+    }
+    .mainT_right{float:right;
+        
+    } 
+    button{height: 35px;width:60px;background:#e14d4d;border:0 none;margin-left:10px;border-radius:5px;color:#fff;}
+}
+
+.addaffirm{position:absolute;left:50%;bottom:20px;width:50px;margin-left: -25px;}
+

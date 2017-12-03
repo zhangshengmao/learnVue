@@ -1,0 +1,34 @@
+#homebanner{background-color:rgb(67, 74, 80);padding-top:3%;padding-bottom:2%;
+  .el-carousel__item h3 {
+    color: #475669;
+    font-size: 14px;
+    opacity: 0.75;
+    line-height: 200px;
+    margin: 0;
+    .el-carousel__container,.el-carousel{
+      height:100%;
+    }
+  }
+  .el-carousel__item:nth-of-type{
+    background-size:cover; 
+  }
+  .el-carousel__item:nth-of-type(1){
+    background:url('../../assets/低温雪花牛肉配黑松露酱.jpg') no-repeat 0 0;
+  }
+  .el-carousel__item:nth-of-type(2){
+    background:url('../../assets/德州辣椒鸡肉球.jpg') no-repeat 10% 20%;
+  }
+  .el-carousel__item:nth-of-type(3){
+    background:url('../../assets/青柠大虾.jpg') no-repeat 10% 20%;
+  }
+  .el-carousel__item:nth-of-type(4){
+    background:url('../../assets/蟹黄胶囊高汤秋葵.jpg') no-repeat 20% 40%;
+  }
+  .el-carousel__item:nth-of-type(5){
+    background:url('../../assets/红枣雪梨木瓜汤.jpg') no-repeat 30% 40%;
+  }
+  .el-carousel__item:nth-of-type(6){
+    background:url('../../assets/芝士三文鱼妙卷.jpg') no-repeat 80% 40%;
+  }
+  
+}
