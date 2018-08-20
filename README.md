@@ -1,9 +1,10 @@
 # Vue-learn
-#1.api:´æ·Ådb.js¡¢server.jsÎÄ¼þºÍÂ·ÓÉÎÄ¼þµÈ£¬Â·ÓÉÎÄ¼þÖÐÓÐsocketServer.jsÓÃÓÚ¿ªÆôsocket·þÎñ
+#1.api:ï¿½ï¿½ï¿½db.jsï¿½ï¿½server.jsï¿½Ä¼ï¿½ï¿½ï¿½Â·ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½È£ï¿½Â·ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½ï¿½ï¿½socketServer.jsï¿½ï¿½ï¿½Ú¿ï¿½ï¿½ï¿½socketï¿½ï¿½ï¿½ï¿½
 #
-2.clientWweb:ÒÆ¶¯¶Ë
+2.clientWweb:ï¿½Æ¶ï¿½ï¿½ï¿½
 #
-3.webºóÌ¨
+3.webï¿½ï¿½Ì¨
 #
-4.data£º´æ·ÅÊý¾Ý¿âµÄ±í£¬Êý¾Ý¿âµÄÃû×ÖÎªqingsongdian
-5.ÒÆ¶¯¶ËbaseUrl´æ·ÅÎ»ÖÃ£ºclientWeb =>src =>utils =>httpClient.js
+4.dataï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý¿ï¿½Ä±ï¿½ï¿½ï¿½ï¿½ï¿½Ý¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Îªqingsongdian
+5.ï¿½Æ¶ï¿½ï¿½ï¿½baseUrlï¿½ï¿½ï¿½Î»ï¿½Ã£ï¿½clientWeb =>src =>utils =>httpClient.js
+hao dsaadsa
